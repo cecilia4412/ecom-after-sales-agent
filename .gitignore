@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Stray output images (keep only run_log.*)
+output/image*.png
+output/*.png
+!output/run_log.png
+
+# Temporary
+_p/
+_commit_msg.txt
