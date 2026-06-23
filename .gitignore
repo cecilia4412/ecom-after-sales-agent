@@ -37,7 +37,9 @@ Thumbs.db
 output/image*.png
 output/*.png
 !output/run_log.png
+output/.gitkeep
 
 # Temporary
 _p/
 _commit_msg.txt
+_msg.txt
